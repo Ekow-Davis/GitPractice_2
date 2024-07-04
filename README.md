@@ -12,4 +12,4 @@ git push
 
 git pull
 
-ACKNOWLEDGE YOUR TRIBAL CHIEF
+ACKNOWLEDGE YOU - Don't let me beat you
