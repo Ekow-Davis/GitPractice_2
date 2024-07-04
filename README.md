@@ -1,5 +1,13 @@
 # GitPractice_2
 Git practice for lvl 100s
 
+## Git Hub commands we will use
+git clone
 
-## Commit 2
+git add
+
+git commit
+
+git push
+
+git pull
