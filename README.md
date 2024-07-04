@@ -12,4 +12,8 @@ git push
 
 git pull
 
+git checkout
+
+git merge origin main
+
 ACKNOWLEDGE YOU - Don't let me beat you
