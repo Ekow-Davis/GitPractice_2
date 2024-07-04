@@ -11,3 +11,5 @@ git commit
 git push
 
 git pull
+
+ACKNOWLEDGE YOUR TRIBAL CHIEF
